@@ -1,0 +1,7 @@
+E:\C# Projeleri\Seker\Seker\bin\Debug\Seker.exe.config
+E:\C# Projeleri\Seker\Seker\bin\Debug\Seker.exe
+E:\C# Projeleri\Seker\Seker\bin\Debug\Seker.pdb
+E:\C# Projeleri\Seker\Seker\obj\Debug\Seker.csproj.AssemblyReference.cache
+E:\C# Projeleri\Seker\Seker\obj\Debug\Seker.csproj.CoreCompileInputs.cache
+E:\C# Projeleri\Seker\Seker\obj\Debug\Seker.exe
+E:\C# Projeleri\Seker\Seker\obj\Debug\Seker.pdb
